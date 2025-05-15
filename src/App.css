@@ -8,19 +8,19 @@
 /* For more advanced customizations, you may need to edit specific CSS rules below. */
 :root {
   /* Overall page background */
-  --main-background-color: #2817FF;
+  --main-background-color: #ffffff;
 
   /* Background for main content cards (header, input sections, results section) */
-  --card-background-color: #FFFFFF;
+  --card-background-color: #fdf05e;
 
   /* Background for individual result cards (Stripe, Mangopay, etc.) within the results section */
   --result-card-background-color: #f9f9f9; /* A slightly off-white for distinction */
 
   /* Text color for all main headers (h1, h2, h3) */
-  --header-text-color: #2817FF;
+  --header-text-color: #000000;
 
   /* Style for the active navigation tab */
-  --tab-active-color: #2817FF;        /* Text color and bottom border color of the active tab */
+  --tab-active-color: #000000;        /* Text color and bottom border color of the active tab */
   --tab-active-weight: bold;          /* Font weight of the active tab (e.g., normal, bold, 600) */
 
   /* Colors for savings text */
@@ -28,7 +28,7 @@
   --savings-negative-color: #dc3545;  /* Text color for negative savings (losses) */
 
   /* General border color used for elements like card sub-borders, result card borders */
-  --border-color: #eee;
+  --border-color: #000000;
 }
 
 body {
@@ -457,7 +457,7 @@ body {
   padding-top: 20px;
   border-top: 1px solid #ddd; 
   font-size: 0.8em;
-  color: #DDDDDD; 
+  color: #000000; 
   display: flex; 
   justify-content: center; 
   align-items: center; 
