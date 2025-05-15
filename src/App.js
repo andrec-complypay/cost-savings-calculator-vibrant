@@ -360,7 +360,7 @@ function App() {
     );
 };
 
-  const complyPayFooterLogo = './main_horisontal.png'; // Update with your actual logo path in public/
+  const complyPayFooterLogo = process.env.PUBLIC_URL + '/main_horisontal.png''./main_horisontal.png'; // Update with your actual logo path in public/
 
   return (
     <div className="App" style={{ 
