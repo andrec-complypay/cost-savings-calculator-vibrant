@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/andrec-complypay/cost-savings-calculator-vibrant/static/css/main.1c43b805.css",
+    "main.js": "/andrec-complypay/cost-savings-calculator-vibrant/static/js/main.8635e4b6.js",
+    "static/js/453.a344cd20.chunk.js": "/andrec-complypay/cost-savings-calculator-vibrant/static/js/453.a344cd20.chunk.js",
+    "index.html": "/andrec-complypay/cost-savings-calculator-vibrant/index.html",
+    "main.1c43b805.css.map": "/andrec-complypay/cost-savings-calculator-vibrant/static/css/main.1c43b805.css.map",
+    "main.8635e4b6.js.map": "/andrec-complypay/cost-savings-calculator-vibrant/static/js/main.8635e4b6.js.map",
+    "453.a344cd20.chunk.js.map": "/andrec-complypay/cost-savings-calculator-vibrant/static/js/453.a344cd20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c43b805.css",
+    "static/js/main.8635e4b6.js"
+  ]
+}
